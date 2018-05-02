@@ -1,8 +1,8 @@
 # Title
-Measurements of secondary organic aerosol over west Africa
+Modelling Measurements of secondary organic aerosol over west Africa
 
 # Authors
-A V S Parry
+A V S Parry, Johnathon Bloggs
 
 # Introduction
 We prsent here aircraft measurements of SOA of Nigeria, using and Aerodyne aerosol mass spectrometer (Allan, 2004).
