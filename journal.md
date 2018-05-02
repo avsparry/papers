@@ -6,6 +6,9 @@ Aircraft measurements and models of secondary organic aerosol over west Africa
 
 # Authors
 A V S Parry, Johnathon Bloggs
+#Author Affiliations
+Santiago
+Manchester
 
 # Introduction
 We prsent here aircraft measurements of SOA of Nigeria, using and Aerodyne aerosol mass spectrometer (Allan, 2004).
