@@ -6,9 +6,9 @@ Aircraft measurements and models of secondary organic aerosol over west Africa
 
 # Authors
 A V S Parry, Johnathon Bloggs
-#Author Affiliations
-Santiago
+#Author affiliations
 Manchester
+Santiago
 
 # Introduction
 We prsent here aircraft measurements of SOA of Nigeria, using and Aerodyne aerosol mass spectrometer (Allan, 2004).
@@ -26,8 +26,8 @@ This simulation reproduced the measurements nicely, supporting the formation pro
 
 # COnclusions
 Here are my conclusions.
-Here are my conclusions. We did the science. New insights into particle formation were discovered.
-Here are my conclusions.I've had to add a new conclustion branch.
+We did the science. New insights into particle formation were discovered.
+I've had to add a new conclustion branch.
 
 #Figures
 This is where the figures go for the paper
