@@ -4,3 +4,5 @@ Allan et al 2004, Seminal Papers on Aerosol Mass Spectrometer
 Haywood et al 2000, Measurements of SOA over the Sahel
 
 Bloggs et al 2017, Already goe Aerosols over west Africa
+
+Allen et al 2003, Methods for measuring aerosols from a plane
